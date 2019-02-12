@@ -1,8 +1,10 @@
-# Email Generator
+# Email Content Generator
 
- Quickly generate customer emails from pre-written sections that you can copy into your email client. Built with [VueJS](https://vuejs.org/)
+Quickly generate customer emails from pre-written sections that you can copy into your email client. Built as an internal tool for teams at Neto Ecommerce with [VueJS](https://vuejs.org/). 
 
-[Link here](http://forms.neto.com.au/email-generator/) or a [demo here](https://so-neto-email.surge.sh)
+## Demo
+
+**[Vie demo here](https://so-neto-email.surge.sh)**
 
 ## Features
 
@@ -30,10 +32,6 @@ npm run build
 ```
 
 ## Updating content
-
-Content for each department is stored in a JSON file at: [`/content/content-department.json`](https://github.com/NetoECommerce/Neto-Forms/blob/master/email-generator-2/content/)
-
-Content should be kept up to date with this Confluence doc: [MSR Service Emails](https://netoecommerce.atlassian.net/wiki/spaces/MP/pages/233570454/MSR+Service+Emails)
 
 When adding a new section or option: 
 
